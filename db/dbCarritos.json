@@ -1,0 +1,34 @@
+[
+  {
+    "productos": [
+      {
+        "id": 1,
+        "timestamp": "2022-12-05T03:59:05.611Z",
+        "title": "prod2",
+        "price": 20,
+        "thumbnail": "https://w7.pngwing.com/pngs/744/758/png-transparent-computer-icons-new-product-development-box-miscellaneous-text-label.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "code": "PROD1",
+        "stock": 20
+      }
+    ],
+    "id": 3,
+    "timestamp": "2022-12-08T22:25:06.596Z"
+  },
+  {
+    "productos": [
+      {
+        "id": 1,
+        "timestamp": "2022-12-05T03:59:05.611Z",
+        "title": "prod2",
+        "price": 20,
+        "thumbnail": "https://w7.pngwing.com/pngs/744/758/png-transparent-computer-icons-new-product-development-box-miscellaneous-text-label.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "code": "PROD1",
+        "stock": 20
+      }
+    ],
+    "id": 2,
+    "timestamp": "2022-12-08T22:29:40.975Z"
+  }
+]
